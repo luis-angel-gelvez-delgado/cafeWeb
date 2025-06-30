@@ -1,0 +1,226 @@
+body{
+background-color: #191919;
+    }
+
+.btLogo{
+    background-color:#191919;
+    color: white;
+    padding: 3px 20px;
+    position: relative;
+    overflow: hidden;
+    top: 0px;
+    left: 300px;
+    border: none;
+    cursor: pointer;
+}
+
+.btHome{
+    background-color:#191919;
+    color: white;
+    padding: 3px 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 900px;
+    border: none;
+    cursor: pointer;
+}
+
+.btAbout{
+    background-color:#191919;
+    color: white;
+    padding: 3px 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 1000px;
+    border: none;
+    cursor: pointer;
+}
+
+.btMenu{
+    background-color:#191919;
+    color: white;
+    padding: 3px 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 1100px;
+    border: none;
+    cursor: pointer;}
+
+.btContact{
+    background-color:#191919;
+    color: white;
+    padding: 3px 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 0px;
+    left: 1200px;
+    border: none;
+    cursor: pointer;
+}
+
+.txtH1{
+    position: absolute;
+    top: 80px;
+    left: 450px;
+    font-size: 32px;
+    color: white;
+}
+
+.cafe1{
+    position: absolute;
+    top: 250px;
+    height: 20px;
+    width: 2px;
+}
+
+.txth2{
+    white-space: nowrap;
+    position: absolute;
+    top: 1500px;
+    left: 400px;
+    font-size: 32px;
+    color: white;
+}
+
+.btShopNow{
+    white-space: nowrap;
+    background-color:orange;
+    color: black;
+    padding: 8px 30px;
+    position: absolute;
+    top: 1625px;
+    left: 679px;
+    border: none;
+    cursor: pointer;
+}
+
+.cafe2{
+    position: absolute;
+    top: 1750px;
+}
+
+.ourStoryLine{
+    background-color: azure;
+    position: absolute;
+    top: 1950px;
+    left: 750px;
+    width: 90px;
+    height: 1px;
+}
+
+.h1cafe2{
+    white-space:nowrap ;
+    color: azure;
+    position: absolute;
+    top: 1910px;
+    left: 850px;
+    width: 200px;
+    height: 100px;
+}
+
+.pcafe2{
+    color: azure;
+    position: absolute;
+    top: 1970px;
+    left: 850px;
+    width: 440px;
+    height: 100px;
+}
+
+.btcafe2{
+    white-space: nowrap;
+    background-color:orange;
+    color: black;
+    padding: 8px 35px;
+    position: absolute;
+    top: 2060px;
+    left: 850px;
+    border: none;
+    cursor: pointer;
+}
+
+.h1cafe3{
+    color: azure;
+    position: absolute;
+    top: 2300px;
+    left: 150px;
+    width: 300px;
+    height: 100px;
+}
+
+.pcafe3{
+    white-space: nowrap;
+    color: azure;
+    position: absolute;
+    top: 2430px;
+    left: 150px;
+    width: 300px;
+    height: 100px;
+}
+
+.btcafe3{
+    white-space: nowrap;
+    background-color:orange;
+    color: black;
+    padding: 8px 35px;
+    position: absolute;
+    top: 2480px;
+    left: 150px;
+    border: none;
+    cursor: pointer;
+}
+
+.cafe3{
+    position: absolute;
+    top: 2480px;
+    left: 150px;
+    width: 200px;
+    height: 200px;
+}
+
+.products{
+    color: azure;
+    position: absolute;
+    top: 4900px;
+    left: 30px;
+    width: 300px;
+    height: 100px;   
+}
+
+.cafeMini1{
+    position: absolute;
+    align-items: center;
+    white-space:nowrap;
+    color: aliceblue;
+    background-color:#191919;
+    height: 400px;
+    width: 200px;
+    border-width: 2px solid orange;
+}
+.cafeMini1{
+    align-items: center;
+    border-width: 2px;
+    top: 5100px;
+    border-style: solid;
+    border-color: orange;
+}
+
+.cafeMini2{
+    align-items: center;
+    white-space:nowrap;
+    color: aliceblue;
+    background-color:#191919;
+    height: 400px;
+    width: 200px;
+    border-width: 2px solid orange;
+}
+.cafeMini2{
+    align-items: center;
+    border-width: 2px;
+    top: 5100px;
+    border-style: solid;
+    border-color: orange;
+}
