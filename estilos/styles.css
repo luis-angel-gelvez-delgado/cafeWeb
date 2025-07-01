@@ -36,8 +36,8 @@ body{
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
-    padding-top: 2vh;
-    gap: 22vw;
+    margin-top: 2vh;
+    gap: 50vh;
     font-size: 2vw;
 }
 
@@ -48,7 +48,7 @@ body{
 
 .btShopNow button{
     padding: 0.7vw;
-    width: 15vw;
+    width: 12vw;
     font-size: 1vw;
     background-color: orange;
     border-radius: 5vw;
